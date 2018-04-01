@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OpenTK.Graphics;
+using wsGraphics;
 
 namespace WaifuShooter
 {
@@ -10,8 +12,8 @@ namespace WaifuShooter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mono ist abgehoben aber seksi!");
-            while (true) { }
+            gameWindow app = new gameWindow();
+            app.Run(60, 60);
         }
     }
 }
