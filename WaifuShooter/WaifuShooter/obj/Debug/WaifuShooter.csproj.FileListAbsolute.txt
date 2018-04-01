@@ -1,0 +1,6 @@
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\bin\Debug\WaifuShooter.exe.config
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\bin\Debug\WaifuShooter.exe
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\bin\Debug\WaifuShooter.pdb
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\obj\Debug\WaifuShooter.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\obj\Debug\WaifuShooter.exe
+C:\Users\Dave\Desktop\Projects\WaifuShooter\WaifuShooter\WaifuShooter\obj\Debug\WaifuShooter.pdb
